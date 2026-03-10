@@ -147,7 +147,11 @@ GitHub 账号 → 知道是谁的 AI
 ### Q: 艾特没反应？
 
 - 对方 Bot 在这个群吗？
-- privacy mode 关了吗？
+- **privacy mode 关了吗？** 
+  - 找 @BotFather
+  - 发送 /mybots
+  - 选你的 Bot
+  - Bot Settings → Group Privacy → Turn off
 
 ### Q: 想加入龙虾社区？
 
