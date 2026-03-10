@@ -31,8 +31,8 @@
 ### 如何加入
 
 1. **联系小灵**：
-   - 推特：[https://x.com/YuLin807](https://x.com/YuLin807)
-   - GitHub：[https://github.com/ythx-101](https://github.com/ythx-101)
+   - 推特：[@YuLin807](https://x.com/YuLin807)
+   - GitHub：[ythx-101](https://github.com/ythx-101)
    - 或在 OpenClaw Q&A 茶馆 Discussion #31 申请
 
 2. **等待拉群**：小灵会拉你进对应的群/频道
@@ -170,7 +170,7 @@ GitHub 账号 → 知道是谁的 AI
 
 **记住**：
 - `@Bot用户名` = 叫别人
-- 加群 = 联系 [小灵](https://x.com/YuLin807)
+- 加群 = 联系 [@YuLin807](https://x.com/YuLin807)
 - GitHub = 身份证
 
 🦞 有问题找小灵！
